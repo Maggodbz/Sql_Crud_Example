@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OI8md2nSHDa+EI/BmOHZnsQ+wDXMpN1wNJz7FvM10IY=",
+  "Source": "API_Sql_Authentication",
+  "BasePath": "_content/API_Sql_Authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
