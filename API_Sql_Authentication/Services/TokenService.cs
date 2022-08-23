@@ -7,6 +7,12 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace API_Sql_Authentication.Services
 {
+    public interface ITokenService
+    {
+        string GenerateToken(TestUser validatedUser);
+        Task<int> GetUserIdFromToken(HttpContext context);
+    }
+
     public class TokenService : ITokenService
     {
         private readonly IConfiguration _configuration;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zscTwo+KXr/9/nxuJ90rV/TRAGanLwcUZWSl8c9w3p6pKN8ToT0vnnbQyHXhv1/XHJsqebndd+mzLtuMtxNaDA==",
+  "dgSpecHash": "e+AKildDvNKEtyRwosP6d67hDioBBgzVrO0CseyCjX+7w6tRi597LyEzJ84y0xclg2iFLT3zCNRM8tgdACCIrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarcoMarthe\\Repos\\Samples\\API_Sql_Authentication\\API_Sql_Authentication.csproj",
+  "projectFilePath": "C:\\Users\\MarcoMarthe\\Repos\\gitRepos\\Sql_Crud_Example\\API_Sql_Authentication\\API_Sql_Authentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcoMarthe\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.7\\microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",
     "C:\\Users\\MarcoMarthe\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MarcoMarthe\\Repos\\Samples\\API_Sql_Authentication\\API_Sql_Authentication.csproj": {}
+    "C:\\Users\\MarcoMarthe\\Repos\\gitRepos\\Sql_Crud_Example\\API_Sql_Authentication\\API_Sql_Authentication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MarcoMarthe\\Repos\\Samples\\API_Sql_Authentication\\API_Sql_Authentication.csproj": {
+    "C:\\Users\\MarcoMarthe\\Repos\\gitRepos\\Sql_Crud_Example\\API_Sql_Authentication\\API_Sql_Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MarcoMarthe\\Repos\\Samples\\API_Sql_Authentication\\API_Sql_Authentication.csproj",
+        "projectUniqueName": "C:\\Users\\MarcoMarthe\\Repos\\gitRepos\\Sql_Crud_Example\\API_Sql_Authentication\\API_Sql_Authentication.csproj",
         "projectName": "API_Sql_Authentication",
-        "projectPath": "C:\\Users\\MarcoMarthe\\Repos\\Samples\\API_Sql_Authentication\\API_Sql_Authentication.csproj",
+        "projectPath": "C:\\Users\\MarcoMarthe\\Repos\\gitRepos\\Sql_Crud_Example\\API_Sql_Authentication\\API_Sql_Authentication.csproj",
         "packagesPath": "C:\\Users\\MarcoMarthe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MarcoMarthe\\Repos\\Samples\\API_Sql_Authentication\\obj\\",
+        "outputPath": "C:\\Users\\MarcoMarthe\\Repos\\gitRepos\\Sql_Crud_Example\\API_Sql_Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
